@@ -5,7 +5,8 @@
     "require": {
         "php": ">=5.6.0",
         "md/division-project": "3.*",
-        "silverstripe/mathspamprotection": "dev-master"
+        "silverstripe/mathspamprotection": "dev-master",
+	"md/silverstripe-wxr-export" : "dev-main"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
@@ -69,6 +70,10 @@
         "6": {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml"
+        },
+        "7": {
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export"
         },
         "repo-name": {
             "type": "vcs",

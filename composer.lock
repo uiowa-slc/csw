@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "195cf6e746930c5e394a0a506782df1b",
+    "content-hash": "e989b4d41a3be994028593ad4ac914ec",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1594,6 +1594,34 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode/tree/master"
             },
             "time": "2020-03-30T21:44:08+00:00"
+        },
+        {
+            "name": "md/silverstripe-wxr-export",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export.git",
+                "reference": "58c9fc8e3ba7e6bfff42d9967440003dd9429a3f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-wxr-export/zipball/58c9fc8e3ba7e6bfff42d9967440003dd9429a3f",
+                "reference": "58c9fc8e3ba7e6bfff42d9967440003dd9429a3f",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2",
+                "silverstripe/cms": "4.*",
+                "silverstripe/framework": "4.*"
+            },
+            "default-branch": true,
+            "type": "silverstripe-vendormodule",
+            "description": "Exports SilverStripe content to WordPress eXtended RSS",
+            "support": {
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export/tree/main",
+                "issues": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export/issues"
+            },
+            "time": "2021-02-19T00:12:09+00:00"
         },
         {
             "name": "md/uiowa-bar",
@@ -6987,7 +7015,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "silverstripe/mathspamprotection": 20
+        "silverstripe/mathspamprotection": 20,
+        "md/silverstripe-wxr-export": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
