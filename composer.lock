@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e989b4d41a3be994028593ad4ac914ec",
+    "content-hash": "3fb74d9b9bfc4b97454048d8354fbd5f",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1596,17 +1596,17 @@
             "time": "2020-03-30T21:44:08+00:00"
         },
         {
-            "name": "md/silverstripe-wxr-export",
+            "name": "md/silverstripe-migration-tools",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export.git",
-                "reference": "58c9fc8e3ba7e6bfff42d9967440003dd9429a3f"
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools.git",
+                "reference": "e200bafbf661fe70c50e46e50fbd8a95aa82d4a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-wxr-export/zipball/58c9fc8e3ba7e6bfff42d9967440003dd9429a3f",
-                "reference": "58c9fc8e3ba7e6bfff42d9967440003dd9429a3f",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-migration-tools/zipball/e200bafbf661fe70c50e46e50fbd8a95aa82d4a6",
+                "reference": "e200bafbf661fe70c50e46e50fbd8a95aa82d4a6",
                 "shasum": ""
             },
             "require": {
@@ -1618,10 +1618,10 @@
             "type": "silverstripe-vendormodule",
             "description": "Exports SilverStripe content to WordPress eXtended RSS",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export/tree/main",
-                "issues": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-wxr-export/issues"
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools/tree/main",
+                "issues": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools/issues"
             },
-            "time": "2021-02-19T00:12:09+00:00"
+            "time": "2021-03-29T21:06:44+00:00"
         },
         {
             "name": "md/uiowa-bar",
@@ -4332,16 +4332,16 @@
         },
         {
             "name": "symfony/filesystem",
-            "version": "v4.4.20",
+            "version": "v4.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "715e7a531bdae109a828f9e91629e5b3b2926beb"
+                "reference": "940826c465be2690c9fae91b2793481e5cbd6834"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/715e7a531bdae109a828f9e91629e5b3b2926beb",
-                "reference": "715e7a531bdae109a828f9e91629e5b3b2926beb",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/940826c465be2690c9fae91b2793481e5cbd6834",
+                "reference": "940826c465be2690c9fae91b2793481e5cbd6834",
                 "shasum": ""
             },
             "require": {
@@ -4374,7 +4374,7 @@
             "description": "Provides basic utilities for the filesystem",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/filesystem/tree/v4.4.20"
+                "source": "https://github.com/symfony/filesystem/tree/v4.4.21"
             },
             "funding": [
                 {
@@ -4390,7 +4390,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-11T19:34:41+00:00"
+            "time": "2021-03-28T09:59:32+00:00"
         },
         {
             "name": "symfony/finder",
@@ -7016,7 +7016,7 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "silverstripe/mathspamprotection": 20,
-        "md/silverstripe-wxr-export": 20
+        "md/silverstripe-migration-tools": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
