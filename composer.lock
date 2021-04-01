@@ -565,16 +565,16 @@
         },
         {
             "name": "embed/embed",
-            "version": "v3.4.13",
+            "version": "v3.4.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/oscarotero/Embed.git",
-                "reference": "99f6d95aebd94251573e4f4febf14bc6aba28697"
+                "reference": "f944eef58227af79d217b48c763ae931cf417828"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oscarotero/Embed/zipball/99f6d95aebd94251573e4f4febf14bc6aba28697",
-                "reference": "99f6d95aebd94251573e4f4febf14bc6aba28697",
+                "url": "https://api.github.com/repos/oscarotero/Embed/zipball/f944eef58227af79d217b48c763ae931cf417828",
+                "reference": "f944eef58227af79d217b48c763ae931cf417828",
                 "shasum": ""
             },
             "require": {
@@ -618,9 +618,9 @@
             "support": {
                 "email": "oom@oscarotero.com",
                 "issues": "https://github.com/oscarotero/Embed/issues",
-                "source": "https://github.com/oscarotero/Embed/tree/v3.4.13"
+                "source": "https://github.com/oscarotero/Embed/tree/v3.4.14"
             },
-            "time": "2020-12-24T09:42:20+00:00"
+            "time": "2021-04-01T15:13:19+00:00"
         },
         {
             "name": "gorriecoe/silverstripe-webfonts",
@@ -1601,12 +1601,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools.git",
-                "reference": "b439d571906eabcb6fd1ce51fc3cb768142f3766"
+                "reference": "0c105bac01209b121739c3b452c6811001fee01c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-migration-tools/zipball/b439d571906eabcb6fd1ce51fc3cb768142f3766",
-                "reference": "b439d571906eabcb6fd1ce51fc3cb768142f3766",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-migration-tools/zipball/0c105bac01209b121739c3b452c6811001fee01c",
+                "reference": "0c105bac01209b121739c3b452c6811001fee01c",
                 "shasum": ""
             },
             "require": {
@@ -1621,7 +1621,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools/tree/main",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-migration-tools/issues"
             },
-            "time": "2021-03-31T18:12:26+00:00"
+            "time": "2021-04-01T15:59:23+00:00"
         },
         {
             "name": "md/uiowa-bar",
@@ -3117,12 +3117,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-mathspamprotection.git",
-                "reference": "570eec324c89578f299e2340681b74edb7b3c712"
+                "reference": "5dbb469c4cdc1ff261d4ce058407536256d388d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-mathspamprotection/zipball/570eec324c89578f299e2340681b74edb7b3c712",
-                "reference": "570eec324c89578f299e2340681b74edb7b3c712",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-mathspamprotection/zipball/5dbb469c4cdc1ff261d4ce058407536256d388d4",
+                "reference": "5dbb469c4cdc1ff261d4ce058407536256d388d4",
                 "shasum": ""
             },
             "require": {
@@ -3137,7 +3137,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "SilverStripe\\MathSpamProtection\\": "code/"
+                    "SilverStripe\\MathSpamProtection\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -3160,7 +3160,7 @@
                 "issues": "https://github.com/silverstripe/silverstripe-mathspamprotection/issues",
                 "source": "https://github.com/silverstripe/silverstripe-mathspamprotection/tree/master"
             },
-            "time": "2018-06-28T21:15:27+00:00"
+            "time": "2021-03-31T19:59:18+00:00"
         },
         {
             "name": "silverstripe/mimevalidator",
